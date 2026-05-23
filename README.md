@@ -15,7 +15,7 @@
 - 🔭 Working on DevOps & Cloud Projects
 - 🌱 Exploring Kubernetes, Terraform & AI Integrations
 - 💡 Passionate about Automation & CI/CD
-- 📫 Reach me at: **ashishkarad53@gmail.com**
+- 📫 Reach me at: **karad.ashish7777@gmail.com**
 - ⚡ Fun fact: I love building scalable infrastructure 🚀
 
 ---
@@ -100,7 +100,6 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=AshishKarad&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishKarad&theme=tokyonight&hide_border=true" />
 
 </p>
 
