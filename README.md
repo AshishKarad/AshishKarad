@@ -97,8 +97,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karadashish&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karadashish&theme=tokyonight" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AshishKarad&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishKarad&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
